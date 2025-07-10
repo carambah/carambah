@@ -3,10 +3,10 @@
 # Project Information
 
 ## Project Overview
-- **PROJECT_NAME**: [PROJECT_NAME]
-- **PROJECT_TYPE**: [PROJECT_TYPE]
-- **DESCRIPTION**: [PROJECT_DESCRIPTION]
-- **PURPOSE**: [PROJECT_PURPOSE]
+- **PROJECT_NAME**: Carambah
+- **PROJECT_TYPE**: Solution Repository
+- **DESCRIPTION**: Solution composition component of the Quartet Architecture, building comprehensive solutions from SPlectrum execution assets and InfoMetis packaged services
+- **PURPOSE**: To compose and orchestrate solutions using the Quartet Architecture (SPlectrum/InfoMetis/Sesameh/Carambah) ecosystem
 
 ## Repository Configuration
 - **REPOSITORY**: [REPOSITORY]
@@ -25,14 +25,14 @@
 - **COLLABORATION_MODEL**: [COLLABORATION_MODEL]
 
 ## Project Boundaries
-- **SCOPE**: [PROJECT_SCOPE]
-- **NOT_SCOPE**: [PROJECT_NOT_SCOPE]
-- **TARGET_USERS**: [TARGET_USERS]
+- **SCOPE**: Solution integration, asset composition, SPlectrum/InfoMetis resource utilization, deployment automation
+- **NOT_SCOPE**: Creating new foundational assets (use existing from SPlectrum/InfoMetis), standalone development outside organizational ecosystem
+- **TARGET_USERS**: Solution architects, integration teams, deployment engineers, organizational stakeholders
 
 ## Dependencies
-- **RUNTIME**: [RUNTIME_DEPENDENCIES]
-- **TOOLS**: [TOOL_DEPENDENCIES]
-- **PLATFORMS**: [PLATFORM_SUPPORT]
+- **RUNTIME**: SPlectrum execution engine, InfoMetis packaging system, Sesameh AI intelligence
+- **TOOLS**: Quartet Architecture components, SPlectrum API management, InfoMetis service composition
+- **PLATFORMS**: Quartet-compatible environments, JavaScript-based execution platforms
 
 ## Success Criteria
 - **DEPLOYABILITY**: [DEPLOYABILITY_CRITERIA]
